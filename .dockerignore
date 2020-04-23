@@ -1,0 +1,35 @@
+#python stuff
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+*.log
+.Python
+env
+venv
+env3
+pip-log.txt
+pip-delete-this-directory.txt
+.tox
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*,cover
+
+# Project specific
+.azure-pipelines.yml
+.eslintrc.json
+.gitattributes
+.gitignore
+.pylintrc
+.vscode
+*.sqlite
+*.log
+.git
+celerybeat-schedule.db
+config.py
+Dockerfile
+tmp
+node_modules
